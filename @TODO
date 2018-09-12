@@ -1,0 +1,20 @@
+# Resolve views issues with React
+# Change db connection
+# Change styles
+# Check url's if they need chages
+
+# app.js
+# -> Change PORT
+
+# index.js 
+# -> Delete error_msg
+
+# users.js
+# -> Registration data should be fetched from front-end server
+# -> Email validation should be only if email is typed
+# -> Password validation should be only if password is typed
+# -> Delete console.log
+# -> Check content of msg, if they need changes
+
+# user.js
+# -> Check if mongoDB model need changes

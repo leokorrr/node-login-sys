@@ -77,6 +77,7 @@ passport.use(new LocalStrategy(
     }
 ));
 
+// Check what those 2 functions mean
 passport.serializeUser((user, done)=>{
     done(null, user.id);
 })
